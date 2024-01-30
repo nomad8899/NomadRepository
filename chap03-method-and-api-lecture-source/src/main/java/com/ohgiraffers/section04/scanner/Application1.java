@@ -24,7 +24,7 @@ public class Application1 {
         boolean isTrue = sc.nextBoolean();
         System.out.println("입력하신 논리값은 " + isTrue + "입니다.");
 
-        sc.nextLine();
+//        sc.nextLine();
         System.out.print("아무 문자열을 입력해주세요 : ");
         char ch = sc.nextLine().charAt(0);
         System.out.println("입력하신 문자는 " + ch + "입니다.");
