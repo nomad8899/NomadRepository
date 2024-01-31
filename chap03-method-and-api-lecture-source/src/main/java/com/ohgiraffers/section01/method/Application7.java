@@ -17,6 +17,7 @@ public class Application7 {
     }
 
     public int plusTwoNumbers(int first, int second) {
+
         return first + second;
     }
 
