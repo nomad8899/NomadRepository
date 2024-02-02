@@ -23,8 +23,9 @@ public class Application {
         A_test aCon = new A_test();
 //        aCon.pandaPanda();
 //        aCon.pandaPandaEvent();
-        aCon.panPandaHello();
+//        aCon.panPandaHello();
 
+        aCon.ran3test();
 
 
 

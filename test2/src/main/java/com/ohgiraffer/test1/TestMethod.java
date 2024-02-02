@@ -16,21 +16,13 @@ public class TestMethod {
     public void ssd() {
 
         Scanner sc = new Scanner(System.in);
-
         System.out.println("정수를 입력하세요 : ");
         int su = sc.nextInt();
-
-//        int jjak = (su % 2 == 0);
         int num = 0;
-
-
         for (int i = 1; i <= su; i++) {
-
             if(i % 2 == 0) {
                 num += i;
             }
-
-
         }
         System.out.println("1부터 " + su + "까지 짝수의 합 : "+ num);
     }
