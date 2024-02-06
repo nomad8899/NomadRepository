@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00ebed19-b865-4d94-a8d8-fb5001770e72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section06/finalkeyword/FinalFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section06/singleton/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section06/singleton/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section06/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section06/statickeyword/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section06/statickeyword/StaticFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section06/statickeyword/StaticMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section07/kindsofvariable/KindsOfVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section08/initblock/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section08/initblock/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/init/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/init/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/FireCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/RacingCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2byzsRdrXRA9erUKWVm5QRp06t8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chap07-object-array-lecture-source [:Application.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-f644763e9732-8a10ee56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ebed19-b865-4d94-a8d8-fb5001770e72" name="Changes" comment="" />
+      <created>1707202315181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707202315181</updated>
+      <workItem from="1707202316219" duration="2923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

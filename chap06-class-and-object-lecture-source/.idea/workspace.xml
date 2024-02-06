@@ -5,14 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a0f4af-38af-486c-9dc8-3045ae8f8657" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/constructor/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/constructor/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/dto/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/dto/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/finalkeyword/FinalFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/singleton/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/singleton/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/StaticFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/StaticMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section07/kindsofvariable/KindsOfVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section08/initblock/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section08/initblock/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/src/main/java/com/ohgiraffers/section01/init/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/src/main/java/com/ohgiraffers/section01/init/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/FireCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/RacingCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +50,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chap06-class-and-object-lecture-source" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +96,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/lecture_code/JavaFoundation/chap06-class-and-object-lecture-source",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +105,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,6 +126,8 @@
       <updated>1706835137318</updated>
       <workItem from="1706835138429" duration="16283000" />
       <workItem from="1707092808069" duration="11344000" />
+      <workItem from="1707104646377" duration="11485000" />
+      <workItem from="1707181855866" duration="15566000" />
     </task>
     <servers />
   </component>
