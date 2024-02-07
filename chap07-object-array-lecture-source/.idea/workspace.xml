@@ -28,7 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradlew" afterDir="false" />
@@ -40,6 +39,7 @@
       <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Application1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707202315181</updated>
-      <workItem from="1707202316219" duration="2923000" />
+      <workItem from="1707202316219" duration="3620000" />
     </task>
     <servers />
   </component>
