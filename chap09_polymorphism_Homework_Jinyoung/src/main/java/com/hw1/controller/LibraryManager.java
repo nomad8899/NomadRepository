@@ -40,11 +40,13 @@ public class LibraryManager {
         for (Book books1 : bList ) {
             if(books1.getTitle().contains(keyword)) {
 
-                books[count++] = books1;
+                books = bList;
+
+                count++;
 
             }
         }
-        return Arrays.copyOf(books,count);
+        return books;
 
 //        for(int i = 0; i < books.length; i++) {
 //            if(bList[i].getTitle().contains(keyword)) {

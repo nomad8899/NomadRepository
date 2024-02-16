@@ -65,7 +65,9 @@ public class LibraryMenu {
         public void searchBook() {
             System.out.println("검색할 제목 키워드");
             String keyword = sc.nextLine();
-            lm.searchBook(keyword);
+            Book[] serchList = lm.searchBook(keyword);
+
+            f
 
         }
         public void rentBook () {
